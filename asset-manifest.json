@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArMoRi1/react-employees.git/static/css/main.804827a7.css",
+    "main.js": "/ArMoRi1/react-employees.git/static/js/main.ce841a33.js",
+    "index.html": "/ArMoRi1/react-employees.git/index.html",
+    "main.804827a7.css.map": "/ArMoRi1/react-employees.git/static/css/main.804827a7.css.map",
+    "main.ce841a33.js.map": "/ArMoRi1/react-employees.git/static/js/main.ce841a33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804827a7.css",
+    "static/js/main.ce841a33.js"
+  ]
+}
